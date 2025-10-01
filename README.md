@@ -18,7 +18,11 @@ chapeau, à nombreuses espèces comestibles ou vénéneuses. (Définitions propo
 Dictionnaire Le Robert).
 
 Le dossier contient:
+
 un fichier DATA et un NAMES tout les deux nommés "agaricus-lepiota", il s'agit de la base initiale
+
 deux fichiers CSV "agaricus-lepiota" et "agaricus-lepiota V2", il s'agit de la base modifier pour etre utilisé via le NoteBook Jupyter
+
 un fichier NoteBook Jupyter "Champignon" contenant le code de l'analyse
+
 un fichier pdf "Classification de la base Mushroom" contenant le rapport du projet
